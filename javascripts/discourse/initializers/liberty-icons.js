@@ -148,6 +148,7 @@ function initIcons(api) {
 	api.replaceIcon("user", "lb-user");
 	api.replaceIcon("users", "lb-users");
 	api.replaceIcon("wrench", "lb-tool");
+	api.replaceIcon("microphone-lines", "lb-live");
 }
 
 export default {

@@ -22,7 +22,7 @@ function initIcons(api) {
 	api.replaceIcon("book", "lb-book");
 	api.replaceIcon("bookmark", "lb-bookmark");
 	api.replaceIcon("briefcase", "lb-briefcase");
-	api.replaceIcon("calendar-days", "lb-calendar");
+	api.replaceIcon("calendar-day", "lb-calendar");
 	api.replaceIcon("caret-down", "lb-chevron-down");
 	api.replaceIcon("caret-lelb", "lb-chevron-lelb");
 	api.replaceIcon("caret-right", "lb-chevron-right");

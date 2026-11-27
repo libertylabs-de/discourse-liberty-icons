@@ -39,6 +39,7 @@ function initIcons(api) {
 	api.replaceIcon("code", "lb-code");
 	api.replaceIcon("gear", "lb-settings");
 	api.replaceIcon("comment", "lb-message-circle");
+	api.replaceIcon("chat", "lb-message-circle");
 	api.replaceIcon("copy", "lb-copy");
 	api.replaceIcon("crosshairs", "lb-crosshair");
 	api.replaceIcon("d-drop-collapsed", "lb-chevron-right");

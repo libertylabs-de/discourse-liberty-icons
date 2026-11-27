@@ -150,6 +150,9 @@ function initIcons(api) {
 	api.replaceIcon("users", "lb-users");
 	api.replaceIcon("wrench", "lb-tool");
 	api.replaceIcon("microphone-lines", "lb-live");
+	api.replaceIcon("sun", "lb-sun");
+	api.replaceIcon("moon", "lb-moon");
+	api.replaceIcon("circle-half-stroke", "lb-circle-half");
 }
 
 export default {

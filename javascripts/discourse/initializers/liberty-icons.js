@@ -153,6 +153,7 @@ function initIcons(api) {
 	api.replaceIcon("sun", "lb-sun");
 	api.replaceIcon("moon", "lb-moon");
 	api.replaceIcon("circle-half-stroke", "lb-circle-half");
+	api.replaceIcon("d-chat", "lb-message-circle");
 }
 
 export default {
